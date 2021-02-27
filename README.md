@@ -20,9 +20,15 @@
 
 ### cart - checkout
 
-    <img src='screenshots/product.png'>
+    <img src='screenshots/cart.png'>
 
+### payment methods 
 
+    <img src='screenshots/payment_methods.png'>
+
+### placing order 
+
+    <img src='screenshots/placing_order.png'>
 ## Features
 
 - Full featured shopping cart
