@@ -8,22 +8,22 @@
 ## Screenshots
 
 ### Home page
-    <img src='screenshots/homepage.png'>
+<img src='screenshots/homepage.png'>
 
 ### login - register
-    <img src='screenshots/login.png'>
+<img src='screenshots/login.png'>
 
 ### product details page
-    <img src='screenshots/product.png'>
+<img src='screenshots/product.png'>
 
 ### cart - checkout
-    <img src='screenshots/cart.png'>
+<img src='screenshots/cart.png'>
 
 ### payment methods 
-    <img src='screenshots/payment_methods.png'>
+<img src='screenshots/payment_methods.png'>
 
 ### placing order 
-    <img src='screenshots/placing_order.png'>
+<img src='screenshots/placing_order.png'>
 
 ## Features
 
