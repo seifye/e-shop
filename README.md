@@ -1,8 +1,5 @@
 # E-Shop -- an E-commerce Platform
 
-## Project 3 - Weather Journal App (Front End Developer Udacity Nanodegree)
-
-
 > This E-commerce platform is built with the MERN stack [Mongo DB, Express, React, and NodeJS] with the help of Redux as a global state manager.
 
 ## Screenshots
